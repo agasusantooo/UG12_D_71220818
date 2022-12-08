@@ -13,3 +13,5 @@ elif(model==2) :
     for i in range(50,66) :
         hasil = (i/angkamasuk)
         print(i, ":", angkamasuk, "=", hasil)
+else :
+    print("Pilihan tidak tersedia, jangan ngasasl!")
